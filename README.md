@@ -1,9 +1,9 @@
-# Active Directory Home Lab Deployment (Domain Setup + Client Integration)
+# Active Directory Deployment (Domain Setup + Client Integration)
 
 ## Project Summary
 
 ### Description
-This project is a hands-on **Active Directory lab implementation and walkthrough** demonstrating how to:
+This project is a hands-on **Active Directory implementation and walkthrough** demonstrating how to:
 - Install and configure Active Directory Domain Services (AD DS)
 - Promote a Domain Controller
 - Create and manage users and Organizational Units (OUs)
