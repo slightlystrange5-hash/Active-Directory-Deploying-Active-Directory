@@ -32,18 +32,6 @@ This project simulates a real-world enterprise environment and showcases foundat
 
 ---
 
-## Media
-
-> NOTE: Replace image placeholders with your screenshots.
-
-### Example:
-![AD Installation](images/ad-install.png)
-![OU Structure](images/ou-structure.png)
-![Client Joined](images/client-joined.png)
-![PowerShell Script](images/powershell-users.png)
-
----
-
 ## Demonstration
 
 ---
@@ -52,15 +40,28 @@ This project simulates a real-world enterprise environment and showcases foundat
 
 ### Step 1: Install Active Directory Domain Services
 
-1. Log into **DC-1**
-2. Open **Server Manager**
+1. Log into **Domain Controller**
+2. Open **Server Manager** 
 3. Click **Add Roles and Features**
 4. Select:
+   - Next, Next, Next
    - Active Directory Domain Services
+   - Add Features
+   - Next, Next, Next
+   - Check box "Restart the destination Server Automatically if Required" 
 5. Complete installation
 
-📸 *Screenshot Placeholder*  
-![AD DS Install](images/ad-ds-install.png)
+<img width="902" height="961" alt="Screenshot 2026-03-23 161229" src="https://github.com/user-attachments/assets/a7143b67-5fd8-4611-9e5e-06afa7ebe265" />
+<img width="1906" height="735" alt="Screenshot 2026-03-23 161252" src="https://github.com/user-attachments/assets/5e984676-8a26-4d51-8771-13db2a0de5f8" />
+<img width="505" height="453" alt="Screenshot 2026-03-23 161309" src="https://github.com/user-attachments/assets/9764e919-ac05-4554-8ef5-3aa6c5f75850" />
+<img width="1917" height="1078" alt="Screenshot 2026-03-23 161436" src="https://github.com/user-attachments/assets/d7d292ff-28c4-4133-ab4f-48549c78a74a" />
+<img width="1218" height="914" alt="Screenshot 2026-03-23 161513" src="https://github.com/user-attachments/assets/edbe0ad0-9a93-4c53-bcd0-f81d3569423c" />
+<img width="727" height="521" alt="Screenshot 2026-03-23 162420" src="https://github.com/user-attachments/assets/84586bf7-41bd-4c34-ae10-141c186cb95e" />
+<img width="728" height="519" alt="Screenshot 2026-03-23 162432" src="https://github.com/user-attachments/assets/f21172a4-1a44-431e-a2fa-029ba105f317" />
+<img width="733" height="520" alt="Screenshot 2026-03-23 162440" src="https://github.com/user-attachments/assets/86fca9dd-f1c7-4129-b016-2ee59a4c39c9" />
+<img width="729" height="520" alt="Screenshot 2026-03-23 162756" src="https://github.com/user-attachments/assets/00e4a6da-0220-4d64-a40c-d23eb674c44b" />
+<img width="808" height="578" alt="Screenshot 2026-03-23 162140" src="https://github.com/user-attachments/assets/985defae-87d0-4722-ab20-395fcefb806a" />
+
 
 ---
 
