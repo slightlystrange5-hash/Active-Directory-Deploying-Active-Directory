@@ -181,10 +181,19 @@ Create the following OUs:
 1. Log into **Client-1** as: labuser
 2. Open: System Properties → Change Settings → Domain
 3. Enter: mydomain.com
-4. Restart the machine
+4. Log in with jane_admin credentials
+5. Restart the machine
 
-📸 *Screenshot Placeholder*  
-![Join Domain](images/join-domain.png)
+<img width="1646" height="638" alt="Screenshot 2026-03-23 171507" src="https://github.com/user-attachments/assets/bcd0a283-02fc-4186-af48-76fce014703d" />
+<img width="469" height="439" alt="Screenshot 2026-03-23 171530" src="https://github.com/user-attachments/assets/0b4c34e8-e44f-4d88-8b56-f65f444e2ffe" />
+<img width="911" height="810" alt="Screenshot 2026-03-23 171616" src="https://github.com/user-attachments/assets/373eb25d-8cda-46d1-8f44-7998aec24869" />
+<img width="489" height="495" alt="Screenshot 2026-03-23 172132" src="https://github.com/user-attachments/assets/d6f147fc-cc99-439d-870c-36ab695a6fbc" />
+<img width="570" height="543" alt="Screenshot 2026-03-23 172214" src="https://github.com/user-attachments/assets/5680d6c0-7d29-419b-8a6a-38c77cf23d6b" />
+<img width="1908" height="1013" alt="Screenshot 2026-03-23 172254" src="https://github.com/user-attachments/assets/8515709c-820f-409b-b280-7533cdae97bc" />
+<img width="1901" height="997" alt="Screenshot 2026-03-23 172421" src="https://github.com/user-attachments/assets/c7d2a68a-108b-4419-969d-604b01cdeab8" />
+<img width="1905" height="1016" alt="Screenshot 2026-03-23 172431" src="https://github.com/user-attachments/assets/0a803a38-ee54-4888-a580-2c7f75ab0f9f" />
+<img width="1908" height="1008" alt="Screenshot 2026-03-23 172450" src="https://github.com/user-attachments/assets/f9562e2a-12d5-4a05-8f8e-f4acef247c47" />
+
 
 ---
 
@@ -194,20 +203,27 @@ Create the following OUs:
 2. Open ADUC
 3. Confirm: Client-1 appears under Computers
 
-📸 *Screenshot Placeholder*  
-![Client in AD](images/client-ad.png)
+<img width="913" height="810" alt="Screenshot 2026-03-23 173050" src="https://github.com/user-attachments/assets/fb431df7-5412-46bf-a7eb-b56edfa19009" />
+<img width="1012" height="736" alt="Screenshot 2026-03-23 173123" src="https://github.com/user-attachments/assets/a12492be-5884-4c4b-850a-46e84eadac36" />
+<img width="1098" height="792" alt="Screenshot 2026-03-23 173134" src="https://github.com/user-attachments/assets/beafd1e4-d3d2-4b88-8036-e0b4db90ebaa" />
+
 
 ---
 
-### Step 11: Create Client OU
-
+### Step 11: Create Client OUs
+ss
 1. Create new OU: _CLIENTS
 2. Move **Client-1** into `_CLIENTS`
 
-📸 *Screenshot Placeholder*  
-![Client OU](images/client-ou.png)
+<img width="732" height="463" alt="Screenshot 2026-03-23 173435" src="https://github.com/user-attachments/assets/6fa53b35-4824-4832-a7ed-b51d78210acb" />
+<img width="866" height="724" alt="Screenshot 2026-03-23 173521" src="https://github.com/user-attachments/assets/25e6ca85-a231-4036-a4dd-761148c428ae" />
+<img width="666" height="554" alt="Screenshot 2026-03-23 173542" src="https://github.com/user-attachments/assets/37827003-30b6-4d87-98f0-cd8bd5d0bce5" />
+<img width="748" height="538" alt="Screenshot 2026-03-23 173614" src="https://github.com/user-attachments/assets/f2b2ad67-c811-4c38-a192-5cbfbd5b691a" />
+<img width="650" height="580" alt="Screenshot 2026-03-23 173625" src="https://github.com/user-attachments/assets/39f32fc8-4cf3-4bf6-abf6-cc5202c5f281" />
+<img width="622" height="648" alt="Screenshot 2026-03-23 173650" src="https://github.com/user-attachments/assets/8f8a3df8-2b81-4914-9703-96f893a8f09a" />
 
----
+
+---s
 
 ## Part 2: Remote Desktop & User Management
 
