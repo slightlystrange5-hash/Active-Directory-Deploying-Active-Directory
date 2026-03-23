@@ -67,16 +67,21 @@ This project simulates a real-world enterprise environment and showcases foundat
 
 ### Step 2: Promote Server to Domain Controller
 
-1. Click **Promote this server to a domain controller**
-2. Select:
+1. Navagate to the FLag icon in the top right of Server manager
+2. Click **Promote this server to a domain controller**
+3. Select:
    - **Add a new forest**
-3. Root domain name: mysomain.com
+4. Root domain name: mysomain.com
 
-4. Set Directory Services Restore Mode (DSRM) password
-5. Complete installation and reboot
+5. Set Directory Services Restore Mode (DSRM) password (Password1)
+6. Complete installation and reboot
 
-📸 *Screenshot Placeholder*  
-![Domain Setup](images/domain-setup.png)
+<img width="1914" height="1071" alt="Screenshot 2026-03-23 163040" src="https://github.com/user-attachments/assets/eeff7c86-fe11-4d2e-a6e2-4db6284559ba" />
+<img width="933" height="565" alt="Screenshot 2026-03-23 163105" src="https://github.com/user-attachments/assets/e3a68d5f-71e4-487b-9e84-cb9c927e695e" />
+<img width="1302" height="859" alt="Screenshot 2026-03-23 163310" src="https://github.com/user-attachments/assets/862d3e7d-6f08-4d34-8fa5-1af1ec2f69ee" />
+<img width="990" height="770" alt="Screenshot 2026-03-23 163529" src="https://github.com/user-attachments/assets/39613b15-e961-4540-be72-ca422fdc21d5" />
+<img width="969" height="749" alt="Screenshot 2026-03-23 163605" src="https://github.com/user-attachments/assets/20b7537b-91b5-46b0-978b-c90058103ca0" />
+<img width="955" height="699" alt="Screenshot 2026-03-23 163722" src="https://github.com/user-attachments/assets/baf87628-b480-4b4c-855c-4548a239c7ed" />
 
 ---
 
@@ -86,8 +91,11 @@ After restart:
 
 - Login as: mydomain.com\labuser
 
-📸 *Screenshot Placeholder*  
-![Domain Login](images/domain-login.png)
+<img width="1891" height="533" alt="Screenshot 2026-03-23 164006" src="https://github.com/user-attachments/assets/37e1ac0c-cff5-46f2-8d68-a9652ac0ec05" />
+<img width="535" height="482" alt="Screenshot 2026-03-23 164016" src="https://github.com/user-attachments/assets/c5d8f1dc-2a34-4470-afb2-ccc88921f2d4" />
+<img width="494" height="566" alt="Screenshot 2026-03-23 164021" src="https://github.com/user-attachments/assets/7852f76c-880e-4836-8dad-89128ee12a2b" />
+<img width="529" height="618" alt="Screenshot 2026-03-23 164048" src="https://github.com/user-attachments/assets/99e72fa4-884e-4e90-aea3-f008c20118da" />
+
 
 ---
 
@@ -98,15 +106,22 @@ After restart:
 - Navigate to: Tools → Active Directory Users and Computers
 
 ---
-
+s
 ### Step 5: Create Organizational Units (OUs)
 
 Create the following OUs:
 - `_EMPLOYEES`
 - `_ADMINS`
 
-📸 *Screenshot Placeholder*  
-![OU Creation](images/ou-creation.png)
+<img width="909" height="806" alt="Screenshot 2026-03-23 164335" src="https://github.com/user-attachments/assets/18ab875f-8d29-4870-bf75-7bf58980eaf2" />
+<img width="1058" height="824" alt="Screenshot 2026-03-23 164916" src="https://github.com/user-attachments/assets/b0edb7f1-42d1-4a2a-8d98-c2decf720762" />
+<img width="1298" height="725" alt="Screenshot 2026-03-23 165003" src="https://github.com/user-attachments/assets/3e0bcf2d-b497-4fdb-bbb4-1627129e4dd2" />
+<img width="976" height="768" alt="Screenshot 2026-03-23 165055" src="https://github.com/user-attachments/assets/b026f13f-cd3a-4efc-9490-999388a40073" />
+<img width="601" height="463" alt="Screenshot 2026-03-23 165129" src="https://github.com/user-attachments/assets/abda8a46-d7dd-41a9-9e25-5d8fb84f113e" />
+<img width="748" height="659" alt="Screenshot 2026-03-23 165205" src="https://github.com/user-attachments/assets/0a72aeeb-3e9a-4318-b38c-67db8a108be7" />
+<img width="893" height="627" alt="Screenshot 2026-03-23 165230" src="https://github.com/user-attachments/assets/971da048-9d00-4eb5-8d44-50842c2ed950" />
+<img width="562" height="553" alt="Screenshot 2026-03-23 165249" src="https://github.com/user-attachments/assets/8e44d596-f56f-4e5d-b0c2-c95433d91a4f" />
+
 
 ---
 
@@ -116,15 +131,18 @@ Create the following OUs:
  - Name: Jane Doe
  - Username:
    ```
-   jane_admin
+   jane_doe
    ```
  - Password:
    ```
    Cyberlab123!
    ```
 
-📸 *Screenshot Placeholder*  
-![User Creation](images/user-creation.png)
+<img width="826" height="867" alt="Screenshot 2026-03-23 165326" src="https://github.com/user-attachments/assets/6ad3bb43-7ece-416b-8d99-d2f2fae6816b" />
+<img width="661" height="510" alt="Screenshot 2026-03-23 165404" src="https://github.com/user-attachments/assets/cd21dcaf-01a0-41ed-9b9f-39a21d09be3e" />
+<img width="806" height="645" alt="Screenshot 2026-03-23 165438" src="https://github.com/user-attachments/assets/70f18ef2-750f-4e97-830d-f8e7420b1918" />
+<img width="734" height="625" alt="Screenshot 2026-03-23 165458" src="https://github.com/user-attachments/assets/c99e025c-84ea-4507-9f43-5b4879682053" />
+
 
 ---
 
@@ -133,8 +151,13 @@ Create the following OUs:
 1. Open **Properties** of `jane_admin`
 2. Go to **Member Of**
 3. Add: Domain Admins
-📸 *Screenshot Placeholder*  
-![Domain Admin Assignment](images/domain-admin.png)
+
+<img width="606" height="592" alt="Screenshot 2026-03-23 165527" src="https://github.com/user-attachments/assets/6991820b-dd20-4f25-a7ce-1a0fa0365e8a" />
+<img width="572" height="627" alt="Screenshot 2026-03-23 165604" src="https://github.com/user-attachments/assets/145070b1-228a-4b1b-badc-236c33e61195" />
+<img width="542" height="696" alt="Screenshot 2026-03-23 165625" src="https://github.com/user-attachments/assets/f992c593-64ad-494e-aba6-ad245e602f75" />
+<img width="828" height="759" alt="Screenshot 2026-03-23 165649" src="https://github.com/user-attachments/assets/c26b083d-bf4b-41c5-87b1-fcd514abac43" />
+<img width="700" height="681" alt="Screenshot 2026-03-23 165657" src="https://github.com/user-attachments/assets/23300071-13da-4c7e-97d7-267d3861d033" />
+
 
 ---
 
@@ -142,6 +165,12 @@ Create the following OUs:
 
 - Log out of DC-1
 - Log back in as: mydomain.com\jane_admin
+
+<img width="1912" height="1029" alt="Screenshot 2026-03-23 165724" src="https://github.com/user-attachments/assets/d7d85bb3-3d97-4e3c-8622-54b07f51a25f" />
+<img width="1892" height="827" alt="Screenshot 2026-03-23 165746" src="https://github.com/user-attachments/assets/b2d84244-2691-4141-ad25-8fc4b9cc3add" />
+<img width="540" height="485" alt="Screenshot 2026-03-23 165754" src="https://github.com/user-attachments/assets/59a4e1d8-5b76-4178-b17c-af63d797aaf6" />
+<img width="511" height="583" alt="Screenshot 2026-03-23 165802" src="https://github.com/user-attachments/assets/8b84331e-7d1e-4420-b8b0-1cad8e9cdf13" />
+<img width="495" height="598" alt="Screenshot 2026-03-23 170314" src="https://github.com/user-attachments/assets/f21644a2-fe0c-42e4-b6d7-4505fbf0705a" />
 
 ---
 
