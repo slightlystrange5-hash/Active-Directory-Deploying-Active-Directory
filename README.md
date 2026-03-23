@@ -1,3 +1,6 @@
+
+<img width="708" height="484" alt="AD PHOTO" src="https://github.com/user-attachments/assets/d80ccf85-b85c-4057-acb5-8b797accbe1d" />
+
 # Active Directory Deployment (Domain Setup + Client Integration)
 
 ## Project Summary
