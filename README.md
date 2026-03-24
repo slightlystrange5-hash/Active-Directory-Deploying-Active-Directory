@@ -262,9 +262,8 @@ Create the following OUs:
 
 ### Step 14: Run User Creation Script
 
-1. Create a new script file
-2. Paste your provided script 
-3. Run the script
+1. Run Script provided here, https://raw.githubusercontent.com/slightlystrange5-hash/Active-Directory-Deploying-Active-Directory/refs/heads/main/SCRIPT
+
 
 Expected outcome:
 - Multiple users created in `_EMPLOYEES`
