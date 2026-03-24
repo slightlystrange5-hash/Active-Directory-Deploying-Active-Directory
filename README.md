@@ -236,8 +236,18 @@ Create the following OUs:
 3. Enable: Allow remote connections
 4. Add: Domain Users
 
-📸 *Screenshot Placeholder*  
-![Remote Desktop](images/remote-desktop.png)
+<img width="1910" height="758" alt="Screenshot 2026-03-23 214907" src="https://github.com/user-attachments/assets/79ef332a-c9bd-4777-87e1-4070842182bc" />
+<img width="491" height="465" alt="Screenshot 2026-03-23 214917" src="https://github.com/user-attachments/assets/32833cb4-414a-425f-88b9-561782aa20f7" />
+<img width="498" height="585" alt="Screenshot 2026-03-23 214920" src="https://github.com/user-attachments/assets/84003b1e-4054-48d8-8c84-4fc56514219d" />
+<img width="498" height="585" alt="Screenshot 2026-03-23 214920" src="https://github.com/user-attachments/assets/036420a0-860f-4f42-a24f-2e62513d047f" />
+<img width="479" height="657" alt="Screenshot 2026-03-23 215040" src="https://github.com/user-attachments/assets/591de33e-1de1-4bcf-9441-79565f7679fc" />
+<img width="852" height="802" alt="Screenshot 2026-03-23 215237" src="https://github.com/user-attachments/assets/28adcca6-c547-41d9-bc7c-137e020bdab5" />
+<img width="452" height="504" alt="Screenshot 2026-03-23 215254" src="https://github.com/user-attachments/assets/4e154c1e-05c7-4829-a6be-72aa0a53aaa3" />
+<img width="446" height="504" alt="Screenshot 2026-03-23 215320" src="https://github.com/user-attachments/assets/98a2558d-214f-4acc-851f-0ddeecd815c7" />
+<img width="426" height="505" alt="Screenshot 2026-03-23 215404" src="https://github.com/user-attachments/assets/efee1e8f-3d44-4839-8368-4177fa2f6b93" />
+<img width="594" height="513" alt="Screenshot 2026-03-23 215414" src="https://github.com/user-attachments/assets/76c7008d-bad0-4474-915a-3dd6647d4749" />
+<img width="474" height="540" alt="Screenshot 2026-03-23 215433" src="https://github.com/user-attachments/assets/3a01f47b-ba8b-4835-9fe5-1ad83dd2bacd" />
+
 
 ---
 
