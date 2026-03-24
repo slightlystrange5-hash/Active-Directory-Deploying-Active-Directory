@@ -263,7 +263,7 @@ Create the following OUs:
 ### Step 14: Run User Creation Script
 
 1. Create a new script file
-2. Paste your provided script
+2. Paste your provided script 
 3. Run the script
 
 Expected outcome:
