@@ -211,7 +211,7 @@ Create the following OUs:
 ---
 
 ### Step 11: Create Client OUs
-ss
+
 1. Create new OU: _CLIENTS
 2. Move **Client-1** into `_CLIENTS`
 
