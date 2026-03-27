@@ -258,18 +258,23 @@ Create the following OUs:
 1. Log into DC-1 as `jane_admin`
 2. Open: PowerShell ISE (Run as Administrator)
 
+<img width="1640" height="635" alt="Screenshot 2026-03-27 145857" src="https://github.com/user-attachments/assets/436cd346-166b-4b86-9467-bcd36afce7a7" />
+<img width="525" height="508" alt="Screenshot 2026-03-27 145912" src="https://github.com/user-attachments/assets/fe6a1a0e-917b-4f0a-ac7a-f64d6932af75" />
+
 ---
 
 ### Step 14: Run User Creation Script
 
 1. Run Script provided here, https://raw.githubusercontent.com/slightlystrange5-hash/Active-Directory-Deploying-Active-Directory/refs/heads/main/SCRIPT
 
+<img width="809" height="752" alt="Screenshot 2026-03-27 150946" src="https://github.com/user-attachments/assets/7318a534-892a-4529-b015-bf91e320c18a" />
+<img width="1009" height="540" alt="Screenshot 2026-03-27 151008" src="https://github.com/user-attachments/assets/9c2afc24-ead1-4ba0-b637-07903ff8880a" />
+<img width="1919" height="1032" alt="Screenshot 2026-03-27 151039" src="https://github.com/user-attachments/assets/feb15ed2-449d-4b2f-b25c-9764a4db8c6c" />
 
 Expected outcome:
 - Multiple users created in `_EMPLOYEES`
 
-📸 *Screenshot Placeholder*  
-![PowerShell Script](images/script-run.png)
+<img width="1214" height="1067" alt="Screenshot 2026-03-27 151242" src="https://github.com/user-attachments/assets/36fe84c9-5ff3-45c7-901e-c4099073b358" />
 
 ---
 
@@ -279,8 +284,9 @@ Expected outcome:
 2. Navigate to: _EMPLOYEES OU
 3. Confirm users are created
 
-📸 *Screenshot Placeholder*  
-![Users Created](images/users-created.png)
+<img width="1214" height="1067" alt="Screenshot 2026-03-27 151242" src="https://github.com/user-attachments/assets/36fe84c9-5ff3-45c7-901e-c4099073b358" />
+<img width="847" height="797" alt="Screenshot 2026-03-27 151126" src="https://github.com/user-attachments/assets/96cf4823-ca69-4332-b565-fefc47eb974a" />
+<img width="1080" height="685" alt="Screenshot 2026-03-27 151435" src="https://github.com/user-attachments/assets/441554f7-fbca-467c-b2c9-a813c968df0b" />
 
 ---
 
@@ -288,9 +294,17 @@ Expected outcome:
 
 1. Log into **Client-1**
 2. Use one of the created accounts: mydomain.com<username>
-3. Enter password from script
+3. Enter password from script (Password1)
+4. open Powershell and use command (whoami) to confirm
 
-📸 *Screenshot Placeholder*  
-![User Login](images/user-login.png)
+<img width="1063" height="697" alt="Screenshot 2026-03-27 151504" src="https://github.com/user-attachments/assets/eb25a42a-7d8b-4004-88e2-c45aea49cff8" />
+<img width="1891" height="872" alt="Screenshot 2026-03-27 151527" src="https://github.com/user-attachments/assets/96b3ab5b-34ae-4ca7-b7f3-919d579d9b89" />
+<img width="528" height="601" alt="Screenshot 2026-03-27 151534" src="https://github.com/user-attachments/assets/26e057b6-90a5-4c08-9f11-a8cb5c93128c" />
+<img width="1650" height="632" alt="Screenshot 2026-03-27 151702" src="https://github.com/user-attachments/assets/a08aaeda-bc3a-48a7-b856-3d5e70e5df8b" />
+<img width="555" height="638" alt="Screenshot 2026-03-27 153612" src="https://github.com/user-attachments/assets/39bc9cb2-9182-40cc-8920-0a54dda41d91" />
+<img width="867" height="815" alt="Screenshot 2026-03-27 153855" src="https://github.com/user-attachments/assets/44be3ead-9dbf-466d-8b00-f26ef1fcf75d" />
+<img width="1193" height="667" alt="Screenshot 2026-03-27 153909" src="https://github.com/user-attachments/assets/4ff2717a-9147-4647-86b7-29e301b29b6a" />
+<img width="1388" height="760" alt="Screenshot 2026-03-27 153925" src="https://github.com/user-attachments/assets/ba1accae-8686-4f4e-912f-8099f46ad46e" />
+
 
 ---
